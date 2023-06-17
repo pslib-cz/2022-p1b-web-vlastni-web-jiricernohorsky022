@@ -1,0 +1,25 @@
+body{
+    background-color: #FFDDD2;
+}
+section{
+    margin-top: 5%;
+    padding: 2%;
+    font-size: 200%;
+    margin-bottom: 15%;
+}
+section a{
+    text-decoration: none;
+    color: black;
+
+}
+section a:hover{
+  color: #0276b6;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+}
+
+#fond{
+    font-family: 'Pacifico', cursive;
+}
